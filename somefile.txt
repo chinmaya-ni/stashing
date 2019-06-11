@@ -1,2 +1,4 @@
 adding the first line
 modifying second line
+adding third line
+adding 4th line
